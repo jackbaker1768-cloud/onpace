@@ -1,3 +1,3 @@
-# On Pace
+# On Pace (old address)
 
-Support page and privacy policy for the On Pace iPhone app.
+The website has moved to https://onpaceapp.github.io/. These pages send visitors there.
